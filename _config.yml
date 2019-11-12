@@ -1,11 +1,11 @@
 # Site settings
 author: Mary Arbachauskas
-title: 
+title: Ebb Flow and Code
 header-img: img/home-bg.png
 email: mary.arbachauskas@gmail.com
 copyright_name: Mary Arbachauskas
 description: > # this means to ignore newlines until "baseurl:"
-  
+  From Teacher to Software Engineer 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  MaryArbs
